@@ -1,0 +1,2 @@
+R:\minGW_x86_64-8.1.0\mingw64\bin\ar.exe qc libutils.a CMakeFiles/utils.dir/src/utils.cpp.obj
+R:\minGW_x86_64-8.1.0\mingw64\bin\ranlib.exe libutils.a

@@ -1,0 +1,1 @@
+-IG:/gitOutside/SpeedSnake/src -I"G:/gitOutside/SpeedSnake/external/SDL3-3.2.10/x86_64-w64-mingw32/include" -I"G:/gitOutside/SpeedSnake/external/SDL3_image-3.2.4/x86_64-w64-mingw32/include" -I"G:/gitOutside/SpeedSnake/external/SDL3_ttf-3.2.2/x86_64-w64-mingw32/include" -I"G:/gitOutside/SpeedSnake/external/SDL2_mixer-2.8.1/x86_64-w64-mingw32/include"
